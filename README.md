@@ -68,12 +68,6 @@ El proyecto incluye un módulo de pruebas integrado. Para ver los resultados:
 
 ---
 
-📄 Licencia
-Este proyecto es de código abierto y se distribuye con fines educativos.
-
-🚀 Desarrollado con pasión para la era de la Inteligencia Artificial.
-
-
 👤 Autor
 Estudiante: [Tu Nombre Aquí]
 
@@ -82,3 +76,19 @@ Materia: Programación Web / Desarrollo Frontend
 Fecha: Febrero 2026
 
 Profesor: [Nombre del Profesor]
+
+📄 Licencia
+Este proyecto es de código abierto y se distribuye con fines educativos.
+
+🚀 Desarrollado con pasión para la era de la Inteligencia Artificial.
+
+
+---
+
+### ¿Cómo usar este archivo?
+1. En tu repositorio de GitHub, haz clic en **"Add file"** -> **"Create new file"**.
+2. Ponle de nombre `README.md`.
+3. Pega el código que te acabo de dar arriba.
+4. Haz clic en **"Commit changes"**.
+
+Esto hará que tu página de GitHub se vea increíble y muy profesional. ¿Te gustaría que

@@ -66,7 +66,19 @@ El proyecto incluye un módulo de pruebas integrado. Para ver los resultados:
 ├── script.js    # Lógica, Fetch API, Carrito y Facturación PDF
 └── README.md    # Documentación del proyecto
 
+---
+
 📄 Licencia
 Este proyecto es de código abierto y se distribuye con fines educativos.
 
 🚀 Desarrollado con pasión para la era de la Inteligencia Artificial.
+
+
+👤 Autor
+Estudiante: [Tu Nombre Aquí]
+
+Materia: Programación Web / Desarrollo Frontend
+
+Fecha: Febrero 2026
+
+Profesor: [Nombre del Profesor]
